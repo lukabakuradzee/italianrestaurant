@@ -48,6 +48,7 @@ ul li a:hover {
   text-decoration-color: #fcac45;
   text-decoration-thickness: 1px;
   text-underline-offset: 6px;
+  opacity: 0.8;
 }
 
 .section1 {
@@ -120,7 +121,7 @@ ul li a:hover {
 }
 
 .second {
-  margin-bottom: 70px;
+  margin-bottom: 100px;
 }
 
 .read_more_button {
@@ -129,21 +130,100 @@ ul li a:hover {
   background-color: transparent;
   border: 1px solid;
   transition-duration: 1s;
-
 }
 
 .read_more_button:hover {
   background-color: #fcac45;
   cursor: pointer;
-  
 }
 
 .article1_photo_box {
   /* border: 2px solid red; */
-  width: 40%;
+  width: 50%;
 }
 
 .article1_chef_photo {
   width: 100%;
   height: 100%;
+}
+
+/* section 3 */
+.section3 {
+  width: 80%;
+  margin: 167px auto 120px auto;
+  border: 2px solid red;
+  display: flex;
+  flex-direction: column;
+}
+
+.section3_menu_text {
+  font-family: "Italianno";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 2.188rem;
+  line-height: 44px;
+  text-align: center;
+  margin-bottom: 90px;
+}
+
+.menu_card1 {
+  /* border: 2px solid green; */
+  display: flex;
+  justify-content: space-between;
+}
+
+.card1_photo_box {
+  width: 35%;
+}
+
+.bolognese_photo {
+  width: 100%;
+  height: 100%;
+}
+
+.menu_info1 {
+  width: 55%;
+  /* border: 2px solid blueviolet; */
+}
+
+.menu_dish_name {
+  font-family: "Italianno";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 2.81rem;
+  line-height: 56px;
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 8px;
+}
+
+.menu_dish_ingredients {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 0.93rem;
+  line-height: 18px;
+  margin-bottom: 22px;
+}
+
+.menu_dish_price  {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.06rem;
+  line-height: 20px;
+  text-align: center;
+}
+
+.line {
+  margin-top: 54px;
+  margin-bottom: 54px;
+  border: 1px solid #FCAC45;
+}
+
+
+.button2 {
+  margin-top: 62px;
+  display: block;
+  margin-inline: auto;
 }

@@ -151,7 +151,7 @@ ul li a:hover {
 .section3 {
   width: 80%;
   margin: 167px auto 120px auto;
-  border: 2px solid red;
+  /* border: 2px solid red; */
   display: flex;
   flex-direction: column;
 }

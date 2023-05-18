@@ -206,8 +206,8 @@ ul li a:hover {
   margin-bottom: 22px;
 }
 
-.menu_dish_price  {
-  font-family: 'Roboto';
+.menu_dish_price {
+  font-family: "Roboto";
   font-style: normal;
   font-weight: 400;
   font-size: 1.06rem;
@@ -218,12 +218,51 @@ ul li a:hover {
 .line {
   margin-top: 54px;
   margin-bottom: 54px;
-  border: 1px solid #FCAC45;
+  border: 1px solid #fcac45;
 }
-
 
 .button2 {
   margin-top: 62px;
   display: block;
   margin-inline: auto;
+}
+
+footer {
+  padding: 32px 16% 100px 16%;
+  border-top: 2px solid #fcac45;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.footer_div1 {
+  width: 25%;
+  border-right: 2px solid #fcac45;
+}
+
+.footer_div_heading {
+  font-family: "Italianno";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.68rem;
+  line-height: 34px;
+  text-align: center;
+  margin-bottom: 21px;
+}
+
+.footer_div_paragraph {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 0.75rem;
+  line-height: 14px;
+  text-align: center;
+  margin-bottom: 22px;
+}
+
+
+.copyright_text {
+  width: 100%;
+  text-align: center;
+  margin: auto;
 }

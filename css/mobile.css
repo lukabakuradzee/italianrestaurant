@@ -37,7 +37,19 @@
 
   .article1_photo_box {
     width: 93%;
-    height: 300px;
+    height: 250px;
+  }
+
+  .menu_card1 {
+    flex-direction: column;
+   }
+
+   .card1_photo_box {
+    width: 100%;
+  }
+
+  .menu_info1 {
+    width: 100%;
   }
 
   .section3 {

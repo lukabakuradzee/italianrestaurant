@@ -1,0 +1,94 @@
+@media (max-width: 375px) {
+  .section1 {
+    height: 320px;
+    margin-bottom: 30px;
+  }
+  .section1_heading {
+    font-size: 2.5rem;
+    margin-top: 110px;
+  }
+
+  .section1_paragraph {
+    margin-top: -10px;
+  }
+
+  .section2 {
+    width: 98%;
+  }
+
+  .article1 {
+    width: 93%;
+  }
+
+  .article1_aboutus {
+    font-size: 1.8rem;
+  }
+
+  .article1_paragraph1 {
+    margin-bottom: 20px;
+  }
+
+  .article1_photo_box {
+    width: 93%;
+    height: 300px;
+  }
+
+  .section3 {
+    margin-top: 50px;
+    margin-bottom: 40px;
+  }
+
+  .section3_menu_text {
+    margin-bottom: 30px;
+  }
+
+  .menu_card1 {
+    gap: 15px;
+  }
+
+  .card1_photo_box {
+    width: 60%;
+    height: 235px;
+  }
+
+  .menu_info1 {
+    width: 40%;
+  }
+
+  .menu_dish_name {
+    font-size: 1.8rem;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    line-height: 20px;
+  }
+
+  .menu_dish_ingredients {
+    font-size: 0.8rem;
+    margin-bottom: 15px;
+  }
+
+  .menu_dish_price {
+    font-size: 0.9rem;
+  }
+
+  .button2 {
+    margin-top: 40px;
+  }
+
+  footer  {
+    padding: 20px 10% 20px 10% ;
+  }
+
+  .footer_div1 {
+    width: 32%;
+  }
+
+  .footer_div_heading {
+    font-size: 1.4rem;
+    margin-bottom: 12px;
+  }
+
+  .footer_div_paragraph {
+    margin-bottom: 12px;
+  }
+}

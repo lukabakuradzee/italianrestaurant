@@ -22,7 +22,14 @@
 
   .article1_aboutus {
     font-size: 1.8rem;
+    text-align: center;
   }
+
+  .read_more_button {
+    display: block;
+    margin-inline: auto;    
+  }
+  
 
   .article1_paragraph1 {
     margin-bottom: 20px;
@@ -92,3 +99,5 @@
     margin-bottom: 12px;
   }
 }
+
+

@@ -1,4 +1,4 @@
-@media (max-width: 414px) {
+@media (max-width: 460px) {
   .section1 {
     height: 320px;
     margin-bottom: 30px;
@@ -108,6 +108,5 @@
   .footer_div_paragraph {
     margin-bottom: 12px;
   }
-
 
 }

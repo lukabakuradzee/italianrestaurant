@@ -27,7 +27,9 @@
 
   .read_more_button {
     display: block;
-    margin-inline: auto;    
+    margin-inline: auto;
+
+      
   }
   
 
@@ -37,19 +39,7 @@
 
   .article1_photo_box {
     width: 93%;
-    height: 250px;
-  }
-
-  .menu_card1 {
-    flex-direction: column;
-   }
-
-   .card1_photo_box {
-    width: 100%;
-  }
-
-  .menu_info1 {
-    width: 100%;
+    height: 300px;
   }
 
   .section3 {
@@ -65,7 +55,27 @@
     gap: 15px;
   }
 
-  
+  .article1_photo_box {
+    height: 250px;
+  }
+
+
+  .menu_card1 {
+   flex-direction: column;
+  }
+
+  .card1_photo_box {
+    width: 100%;
+  }
+
+  /* .card1_photo_box { */
+    width: 60%;
+    height: 235px;
+  }
+
+  .menu_info1 {
+    width: 100%;
+  }
 
   .menu_dish_name {
     font-size: 1.8rem;
